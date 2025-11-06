@@ -221,7 +221,3 @@ politics_keywords = ['politics', 'election', 'your_new_keyword']
 - Machine learning model updates
 - Performance analytics
 
-## License
-
-This project is part of the OctaUnitech internship program.
-
